@@ -1,0 +1,26 @@
+body{
+text-align: center;
+background-color: palegoldenrod;
+color: gr;
+font-family: a;
+}
+
+span{
+    font-size: 18px;
+    color: red;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: peru;
+    line-height: 3;
+    text-align: center;
+    }
+
+canvas{
+    background-color: pink;
+    border-radius: 20px;
+}
